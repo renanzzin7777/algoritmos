@@ -12,3 +12,12 @@ Só que foi desenvolvido para ser simples, fácil de aprender e muito versátil,
 utilizar essa linguagem para diversas tarefas.
 Pode construir aplicativos, criar sites, desenvolver programas, criar jogos, fazer análise de dados, 
 inteligência artificial, entre outras atividades.
+
+Passo a passo fazer o download:
+
+- Passo 1: Acesse o site oficial do Python.
+- Passo 2: Faça o download do instalador.
+- Passo 3: Execute o instalador.
+- Passo 4: Configurar as opções de instalação.
+- Passo 5: Concluir a instalação.
+- Passo 6: Verificar a instalação.
