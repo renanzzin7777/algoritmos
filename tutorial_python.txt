@@ -32,3 +32,16 @@ clique duas vezes para abri-lo.
 
 
 Como configurar o virtualenv:
+
+Virtualenv é uma ferramenta que permite criar ambientes Python isolados. Isto é útil para gerenciar dependências
+e evitar conflitos entre diferentes projetos.
+
+1. Abra um terminal ou prompt de comando e navegue até o diretório do seu projeto.
+2. Digite o seguinte comando para instalar o virtualenv:
+	- pip install virtualenv
+3. Depois que o virtualenv estiver instalado, digite o seguinte comando para criar um novo ambiente virtual:
+	- virtualenv venv
+4. Para ativar o ambiente virtual, digite o seguinte comando:
+	-  source venv/bin/activate (macOS/Linux)
+	-  venv\Scripts\activate (Windows)
+5. Depois que o ambiente virtual for ativado, você poderá instalar pacotes Python usando pip sem afetar a instalação global do Python.
