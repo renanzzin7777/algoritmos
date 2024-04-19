@@ -1,0 +1,6 @@
+Iniciando tutorial dp Python:
+
+- O Python se tornou uma das linguagens de programação mais populares do mundo 
+nos últimos anos. E isso se deve, principalmente, à sua versatilidade: o Python 
+funciona tanto para o aprendizado de máquinas, construção de sites até para automação 
+de tarefas e testes de softwares.
