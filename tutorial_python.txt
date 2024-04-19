@@ -4,3 +4,11 @@ Iniciando tutorial dp Python:
 nos últimos anos. E isso se deve, principalmente, à sua versatilidade: o Python 
 funciona tanto para o aprendizado de máquinas, construção de sites até para automação 
 de tarefas e testes de softwares.
+
+Explicando o que é Python:
+
+- O Python é uma linguagem de programação, como você já deve ter ouvido falar de várias outras que existem.
+Só que foi desenvolvido para ser simples, fácil de aprender e muito versátil, ou seja, você vai poder
+utilizar essa linguagem para diversas tarefas.
+Pode construir aplicativos, criar sites, desenvolver programas, criar jogos, fazer análise de dados, 
+inteligência artificial, entre outras atividades.
