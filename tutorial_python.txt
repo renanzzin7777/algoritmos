@@ -1,0 +1,31 @@
+Iniciando tutorial dp Python:
+
+- O Python se tornou uma das linguagens de programação mais populares do mundo 
+nos últimos anos. E isso se deve, principalmente, à sua versatilidade: o Python 
+funciona tanto para o aprendizado de máquinas, construção de sites até para automação 
+de tarefas e testes de softwares.
+
+Explicando o que é Python:
+
+- O Python é uma linguagem de programação, como você já deve ter ouvido falar de várias outras que existem.
+Só que foi desenvolvido para ser simples, fácil de aprender e muito versátil, ou seja, você vai poder
+utilizar essa linguagem para diversas tarefas.
+Pode construir aplicativos, criar sites, desenvolver programas, criar jogos, fazer análise de dados, 
+inteligência artificial, entre outras atividades.
+
+Passo a passo fazer o download:
+
+- Passo 1: Acesse o site oficial do Python.
+- Passo 2: Faça o download do instalador.
+- Passo 3: Execute o instalador.
+- Passo 4: Configurar as opções de instalação.
+- Passo 5: Concluir a instalação.
+- Passo 6: Verificar a instalação.
+
+Passo a passo de instalação:
+
+1 - Marque a opção "Add Python to PATH"
+2 - Clique em "Install Now"
+3 - Se tudo ocorrer bem, a próxima tela será mostrada. Clique em "Close".
+4 - Para verificar se a instalação do Python foi bem-sucedida, pesquise no menu iniciar por "cmd" e 
+clique duas vezes para abri-lo.
