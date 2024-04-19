@@ -21,3 +21,11 @@ Passo a passo fazer o download:
 - Passo 4: Configurar as opções de instalação.
 - Passo 5: Concluir a instalação.
 - Passo 6: Verificar a instalação.
+
+Passo a passo de instalação:
+
+1 - Marque a opção "Add Python to PATH"
+2 - Clique em "Install Now"
+3 - Se tudo ocorrer bem, a próxima tela será mostrada. Clique em "Close".
+4 - Para verificar se a instalação do Python foi bem-sucedida, pesquise no menu iniciar por "cmd" e 
+clique duas vezes para abri-lo.
