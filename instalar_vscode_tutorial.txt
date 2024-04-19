@@ -1,1 +1,7 @@
-Iniciando tutorial de VS Code
+Iniciando tutorial de VS Code 
+
+Explicando o que é VS Code:
+- VS Code é um editor de código aberto gratuito
+desenvolvido pela Microsoft. Ele oferece suporte a uma ampla variedade de
+linguagens de programação, incluindo Python, e vem com recursos integrados,
+como depuração, integração Git e destaque de sintaxe.
